@@ -30,7 +30,7 @@ See [this section](#stable-diffusion-v1) below and the [model card](https://hugg
 
 
 ## Requirements
-A suitable [conda](https://conda.io/) environment named `ldm` can be created
+A suitable [conda](https://conda.io/) environment named `stable-diffusion` can be created
 and activated with:
 
 ```bash

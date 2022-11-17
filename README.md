@@ -33,9 +33,9 @@ See [this section](#stable-diffusion-v1) below and the [model card](https://hugg
 A suitable [conda](https://conda.io/) environment named `ldm` can be created
 and activated with:
 
-```
+```bash
 conda env create -f environment.yaml
-conda activate ldm
+conda activate stable-diffusion
 ```
 
 You can also update an existing [latent diffusion](https://github.com/CompVis/latent-diffusion) environment by running

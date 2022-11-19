@@ -18,6 +18,7 @@ dependencies:
   - numpy=1.19.2
   - ipython
   - jupyterlab
+  - ipywidgets
   - jupyterlab_code_formatter
   - black
   - iprogress

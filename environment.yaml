@@ -6,6 +6,7 @@ channels:
   - nvidia/label/cuda-11.3.1
   - defaults
 dependencies:
+  - nano
   - git
   - python=3.8.5
   - pip=20.3
